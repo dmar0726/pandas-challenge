@@ -1,0 +1,5 @@
+* You must include a written description of at least two observable trends based on the data.
+
+The 5 best schools are all Charter school types and the 5 worst schools are all District school types.  This tells me that there is a clear advantage that students attending Charters have an advantage over the students attending Districts.
+
+Overall there is a very small change from the average grade by grade level when grouping the schools.  There is a maximum difference of average by school of 1.35% for math and .87% for reading.  This tells me that the schools ability to get students better as they get older is minimal.
